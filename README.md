@@ -1,7 +1,8 @@
 # Inteligência de Mercado: Radar Analítico de Notícias com IA Generativa
 Solução de inteligência de dados desenvolvida para monitorar e quantificar a percepção da mídia corporativa em tempo real. O pipeline utiliza Modelos de Linguagem (LLM) e Processamento de Linguagem Natural (NLP) para transformar dados não estruturados de notícias em análises de sentimento e tendências de mercado. 
 
-![Nuvem de Palavras](nuvem_brasil.png)
+![Nuvem de Palavras](Nuvem_Palavras_Brasil.png)
+*Figura 1: Representação visual (WordCloud) georreferenciada evidenciando os termos de maior relevância e tração nas manchetes recentes.*
 
 ## Objetivo do Projeto
 Monitorar e quantificar a percepção da mídia brasileira em relação ao avanço da Inteligência Artificial. O projeto coleta notícias recentes, filtra termos estratégicos de mercado (ex.: *Nvidia, Google, OpenAI, Brasil*), classifica o tom contextual via LLM e gera saídas tabulares e visuais de suporte à decisão.
