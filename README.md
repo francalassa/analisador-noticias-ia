@@ -28,5 +28,5 @@ Monitorar e quantificar a percepção da mídia brasileira em relação ao avan�
 
 Amostra de Relatório Gerado
 ### 📰 Exemplo de Notícias Analisadas:
-- [MadEvolve](https://olhardigital.com.br/2026/03/22/ciencia-e-espaco/madevolve-astronomia-e-inteligencia-artificial/) - **Sentimento: Positivo**
-- [Val Kilmer será ressuscitado com Inteligência Artificial para novo filme](https://pplware.sapo.pt/inteligencia-artificial/val-kilmer-sera-ressuscitado-com-inteligencia-artificial-para-novo-filme/) - **Sentimento: Neutro**
+- [Como a inteligência artificial foi “descoberta”: a história real](https://olhardigital.com.br/2026/08/26/inteligencia-artificial/como-a-inteligencia-artificial-foi-descoberta-a-historia-real/) - **Sentimento: Positivo**
+- [Por que a inteligência artificial importa? Entenda de forma simples](https://olhardigital.com.br/2026/08/27/inteligencia-artificial/por-que-a-inteligencia-artificial-importa-entenda-de-forma-simples/) - **Sentimento: Positivo**
